@@ -11,7 +11,7 @@ This Jupyter Notebook when executed generates HTML file (based on the option sel
 
 This Notebook can be run online using mybinder.org, the requirements.txt file takes care of the dependencies required for mybinder.org
 
-Check the output HTML file COVID19 dashboard-Date.html for interactive standalone output.
+Check the output HTML file COVID19 dashboard-Date.html in 'output' folder for interactive standalone output.
 	where 'Date' in the filename is in the format : Day, Month Date, YYYY. Example : 'Sunday, Aug 16, 2020'
 
 Download HTML file on your system to see the images, Github has file size limitation.
