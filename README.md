@@ -14,7 +14,7 @@ The output contains following tabs with graphs:
 		- Recovery
 		- Death
 2. Trends comparison
-	- Top 10 countries with option of log plot & selecting a country on label)
+	- Top 10 countries with option for log plot & selecting a countries on label
 3. Top 10 bar graph
 4. Worldwide bar graph
 
