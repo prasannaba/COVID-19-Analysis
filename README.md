@@ -1,19 +1,23 @@
 # COVID-19-Analysis
 COVID-19 analysis on data from CSSEGISandData covering all the 150+ countries in the data.
-	Trends by country
-		Cases:
-			Cumulative
-			Daily
-			Seven day moving average
-			Recovered
-			Death
-			Active
-		Rate:
-			Recovery
-			Death
-	Trends comparison(Top 10 countries with option of log plot & selecting a country on label)
-	Top 10 bar graph
-	Worldwide bar graph
+
+The output contains following tabs with graphs:  
+1. Trends by country
+	- Cases:
+		- Cumulative
+		- Daily
+		- Seven day moving average
+		- Recovered
+		- Death
+		- Active
+	- Rate:
+		- Recovery
+		- Death
+2. Trends comparison
+	- Top 10 countries with option of log plot & selecting a country on label)
+3. Top 10 bar graph
+4. Worldwide bar graph
+
 The source code uses bokeh, panel, holoviews & hvplot modules along with pandas.
 
 The source code in Jupyter Notebook reads the following files from CSSEGISandData repository on Github:
