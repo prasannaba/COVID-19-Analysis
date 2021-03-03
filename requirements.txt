@@ -1,5 +1,5 @@
 pandas==1.1.5
-bokeh==2.2.3
+bokeh==2.3.0
 holoviews==1.14.0
 panel==0.10.2
 hvplot==0.7.0
