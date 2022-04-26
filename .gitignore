@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Folders
-/output-history
+output/output-history
