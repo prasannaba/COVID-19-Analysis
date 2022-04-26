@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Folders
+# Folders to exclude
 output/output-history/
