@@ -3,4 +3,4 @@ bokeh==2.3.0
 holoviews==1.14.0
 panel==0.10.2
 hvplot==0.7.0
-numpy=1.19.2
+numpy>=1.22
